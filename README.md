@@ -61,4 +61,15 @@ Sobre NPM:
 
 Resumo:  
 * **Node**: executa JavaScript fora do navegador e permite rodar ferramentas do React Native.  
-* **NPM**: gerencia todas as bibliotecas que seu app precisa.  
+* **NPM**: gerencia todas as bibliotecas que seu app precisa.
+
+  ## 📱 Expo
+
+O **Expo** é uma ferramenta que facilita o desenvolvimento de aplicativos com **React Native**, fornecendo um ambiente pronto para testar e rodar aplicações sem precisar configurar todo o ambiente nativo (Android Studio ou Xcode).  
+
+Com o **Expo Go**, é possível rodar os apps diretamente no celular apenas escaneando o QR Code que aparece no terminal ou no navegador quando você inicia o projeto. Isso torna o processo de desenvolvimento muito mais rápido e prático.  
+
+### 🔗 Links para download do Expo Go
+- [Expo Go para Android (Google Play)](https://play.google.com/store/apps/details?id=host.exp.exponent)  
+- [Expo Go para iOS (App Store)](https://apps.apple.com/app/expo-go/id982107779)  
+
