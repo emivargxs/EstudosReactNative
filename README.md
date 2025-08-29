@@ -44,3 +44,21 @@ Alguns pontos sobre Desenvolvimento Híbrido:
 * Permite manutenção mais simples.  
 * Pode ter limitações de performance em comparação ao nativo.  
 * Pode necessitar de código adicional para acessar recursos específicos do dispositivo.  
+
+---
+
+# Node.js e NPM no React Native
+
+Sobre Node.js:  
+* É um **ambiente de execução JavaScript** fora do navegador.  
+* Permite executar ferramentas de desenvolvimento do React Native.  
+* Serve como base para o **React Native CLI** e scripts do projeto.  
+
+Sobre NPM:  
+* É o **gerenciador de pacotes do Node.js**.  
+* Permite instalar bibliotecas e dependências do projeto, como React e React Native.  
+* Facilita atualizar, remover ou gerenciar versões de pacotes, mantendo o projeto organizado.  
+
+Resumo:  
+* **Node**: executa JavaScript fora do navegador e permite rodar ferramentas do React Native.  
+* **NPM**: gerencia todas as bibliotecas que seu app precisa.  
