@@ -1,10 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Image} from 'react-native';
-import symbolOn from './assets/symbol-on.png'
+import { StyleSheet, View, Image } from 'react-native';
+
 export default function App() {
   return (
     <View style={styles.container}>
-      <Image source={symbolOn}></Image>
+      <Image source={require('./assets/symbol-on.png')} />
       <StatusBar style="auto" />
     </View>
   );
